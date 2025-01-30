@@ -1,0 +1,11 @@
+ExeNameSequence
+"['curl', 'bash', 'httpd', 'systemd']"
+"['nc','bash', 'bash', 'httpd', 'systemd']"
+"['whoami','dash', 'sudoedit', 'bash', 'systemd']"
+"['xmrig', 'python3','bash','bash', 'httpd', 'systemd']"
+"['ifconfig', 'python', 'bash','bash', 'sudo', 'bash', 'httpd','systemd']"
+"['lscpu', 'python','bash','bash', 'bash', 'systemd']"
+"['bash', 'dhclient', 'systemd']"
+"['hostname', 'bash', 'bash', 'dhclient', 'systemd']"
+"['cat', 'bash', 'bash', 'dhclient', 'systemd']"
+"['dbus-send', 'bash', 'dhclient', 'systemd']"
