@@ -1,4 +1,4 @@
-# lstm-abnormal-process
+# lstm-abnormal-process (Linux)
 LSTM model trained on normal and abnormal process sequences.
 Data (process sequences):
 Normal: 6000
